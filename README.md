@@ -1,3 +1,3 @@
 # exercise_Git
 First Exercise with Brock University
-Another line
+Tuesday 17/05/22  - all ok
