@@ -1,5 +1,5 @@
-$ git rm <Images>
+git rm <Images>
 
-$ git commit -m "Deleted the file from the git repository"
+git commit -m "Deleted the file from the git repository"
 
-$ git push
+git push
