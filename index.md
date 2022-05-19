@@ -7,7 +7,7 @@ Tuesday 17/05/22  - all ok
 
 ** This is fun **
 
-*I'm learning also Data Visualization..so if you know links about it let me know*
+*Hello world*
 
 [Check this, is beautiful](http://www.dear-data.com/theproject)
 
