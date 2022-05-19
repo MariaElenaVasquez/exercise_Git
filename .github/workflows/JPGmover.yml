@@ -1,6 +1,5 @@
 name: JPG Mover
 
-
 on:
 
   push:
@@ -9,7 +8,8 @@ on:
   pull_request:
     paths: 
      - '**.jpg'
-  workflow_dispatch:
+
+workflow_dispatch:
 
 jobs:
   move-jpg:
